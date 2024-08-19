@@ -1,5 +1,5 @@
 
-p# EXNO2DS
+# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
